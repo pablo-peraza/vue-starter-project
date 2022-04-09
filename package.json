@@ -21,7 +21,7 @@
     "eslint-plugin-lodash": "2.7.0",
     "eslint-plugin-promise": "3.7.0",
     "lodash": "4.17.11",
-    "moment": "2.20.1",
+    "moment": "2.29.2",
     "normalize.css": "7.0.0",
     "reflex-grid": "2.0.1",
     "sweetalert2": "7.3.5",
